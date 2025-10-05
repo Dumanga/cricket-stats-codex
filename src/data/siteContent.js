@@ -36,6 +36,7 @@ export const clientLogos = [
 export const categories = [
   {
     id: "kraft",
+    displayId: 1,
     title: "Classic Kraft Standup",
     description: "Matte finish with food-safe liners; ideal for dry goods and coffee.",
     image: "https://images.unsplash.com/photo-1585386959984-a4155228ef44?auto=format&fit=crop&w=800&q=80",
@@ -43,6 +44,7 @@ export const categories = [
   },
   {
     id: "window",
+    displayId: 2,
     title: "Window Pouches",
     description: "Crystal window with kraft backing for an elevated shelf presence.",
     image: "https://images.unsplash.com/photo-1484980972926-edee96e0960d?auto=format&fit=crop&w=800&q=80",
@@ -50,6 +52,7 @@ export const categories = [
   },
   {
     id: "duo",
+    displayId: 3,
     title: "Duo-Color Metallized",
     description: "Glossy metallic backs with frosted fronts to balance flair and function.",
     image: "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?auto=format&fit=crop&w=800&q=80",
@@ -57,6 +60,7 @@ export const categories = [
   },
   {
     id: "flat",
+    displayId: 4,
     title: "Flat Bottom Bricks",
     description: "Self-standing quad seal pouches for bulk fills and refill packs.",
     image: "https://images.unsplash.com/photo-1525935944571-4e99237764c9?auto=format&fit=crop&w=800&q=80",
@@ -64,6 +68,7 @@ export const categories = [
   },
   {
     id: "matte-black",
+    displayId: 5,
     title: "Matte Black Luxe",
     description: "Premium matte black laminates that elevate gourmet and lifestyle products.",
     image: "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=800&q=80",
@@ -71,6 +76,7 @@ export const categories = [
   },
   {
     id: "foil",
+    displayId: 6,
     title: "Holographic Foil",
     description: "Eye-catching iridescent finishes ideal for festive limited editions.",
     image: "https://images.unsplash.com/photo-1521579971123-1192931a1452?auto=format&fit=crop&w=800&q=80",
@@ -78,6 +84,7 @@ export const categories = [
   },
   {
     id: "spout",
+    displayId: 7,
     title: "Spout Fitments",
     description: "Easy-pour pouches for liquids, concentrates, and culinary sauces.",
     image: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=800&q=80",
@@ -85,6 +92,7 @@ export const categories = [
   },
   {
     id: "compostable",
+    displayId: 8,
     title: "Compostable Kraft",
     description: "PLA-lined kraft pouches that break down in industrial compost facilities.",
     image: "https://images.unsplash.com/photo-1524592097445-d46bc1c9b0b0?auto=format&fit=crop&w=800&q=80",

@@ -13,3 +13,4 @@
 - 2025-05-10: Wove kraft accent into hero, catalog, and cart surfaces while keeping green core; build confirmed.
 - 2025-05-10: Adjusted layout surfaces and CTAs to kraft tones for clearer contrast and reran production build.
 - 2025-05-10: Reverted palette and components to original kraft-inspired styling and verified production build.
+- 2025-05-10: Added numeric identifiers to categories and wired them through category cards and product sections.

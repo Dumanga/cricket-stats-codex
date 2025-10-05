@@ -39,14 +39,17 @@ const CategoryGrid = ({ categories, onSelect, sectionRef }) => {
                   <div className="absolute inset-0 bg-gradient-to-br from-white/85 via-white/65 to-white/30" />
                 </div>
                 <div className="relative flex h-full flex-col justify-between p-6">
-                  <div>
+                  <div className="flex items-center gap-3">
+                    <span className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-brand text-xs font-semibold text-white shadow">
+                      {category.displayId ?? index + 1}
+                    </span>
                     <span className="inline-flex items-center rounded-full bg-white/80 px-3 py-1 text-xs font-medium text-slate-500 shadow-sm">
                       {category.title}
                     </span>
-                    <p className="mt-4 text-sm text-slate-600">
-                      {category.description}
-                    </p>
                   </div>
+                  <p className="mt-4 text-sm text-slate-600">
+                    {category.description}
+                  </p>
                   <div className="mt-6 text-sm font-semibold text-brand-dark flex items-center gap-2">
                     View sizes
                     <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-brand/10 text-brand-dark">?</span>

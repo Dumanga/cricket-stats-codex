@@ -20,6 +20,7 @@ const ProductShowcase = ({ catalog, categoriesMeta, activeCategory, onAddToCart,
           {catalog.map((categoryGroup) => {
             const meta = categoriesMeta.find((category) => category.id === categoryGroup.categoryId);
             const isActive = activeCategory === categoryGroup.categoryId;
+            const displayId = meta?.displayId ?? categoryGroup.displayId ?? "-";
 
             return (
               <article
@@ -33,7 +34,7 @@ const ProductShowcase = ({ catalog, categoriesMeta, activeCategory, onAddToCart,
                   <div>
                     <div className="flex items-center gap-3">
                       <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-brand/10 text-brand-dark text-sm font-semibold">
-                        {categoryGroup.variants.length}
+                        {displayId}
                       </span>
                       <h3 className="text-2xl font-display font-semibold text-slate-900">
                         {categoryGroup.headline}
