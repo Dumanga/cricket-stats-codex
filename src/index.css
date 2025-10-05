@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply antialiased text-slate-800 bg-brand-light;
+}
+
+.section-padding {
+  @apply px-4 py-16 sm:px-8 lg:px-16;
+}
+
+.hero-overlay {
+  background: linear-gradient(135deg, rgba(192, 132, 87, 0.16) 0%, rgba(255, 255, 255, 0.85) 100%);
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 20s linear infinite;
+}
+
+.marquee-track:hover {
+  animation-play-state: paused;
+}
+
+.marquee-item {
+  @apply flex items-center justify-center w-32 sm:w-40 h-16 rounded-xl bg-white shadow-sm mr-4 sm:mr-8 px-4;
+}
+
+.category-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 36s linear infinite;
+}
+
+.category-track:hover {
+  animation-play-state: paused;
+}
+
+.category-track > * {
+  margin-right: 1.5rem;
+}
