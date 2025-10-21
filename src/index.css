@@ -38,7 +38,7 @@ body {
 }
 
 .marquee-item {
-  @apply flex items-center justify-center w-32 sm:w-40 h-16 rounded-xl bg-white shadow-sm mr-4 sm:mr-8 px-4;
+  @apply flex items-center justify-center w-40 sm:w-48 h-28 rounded-xl bg-white shadow-sm mr-4 sm:mr-8 px-4;
 }
 
 .category-track {

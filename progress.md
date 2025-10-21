@@ -14,3 +14,9 @@
 - 2025-05-10: Adjusted layout surfaces and CTAs to kraft tones for clearer contrast and reran production build.
 - 2025-05-10: Reverted palette and components to original kraft-inspired styling and verified production build.
 - 2025-05-10: Added numeric identifiers to categories and wired them through category cards and product sections.
+- 2025-10-21: Switched data to src/assets/productDetails.json; mapped categories and product catalog; generated placeholder images in public/prodImgs.
+- 2025-10-21: Implemented 1:1 Category carousel with improved overlay; aligned variants near CTA; white variants text; CTA updated to 'View' and positioned bottom-right.
+- 2025-10-21: Cleaned product card text (removed odd character), replaced separator with hyphen, and removed 'Ex-works Taxes extra' line.
+- 2025-10-21: Added floating WhatsApp button with icon; set business number to +94 755808854 and prefilled message.
+- 2025-10-21: Integrated brand carousel with 13 images from public/brands; increased tile and logo sizes; rounded logos; updated heading to 'Trusted by 200 + Brands'.
+- 2025-10-21: Increased brand carousel height for more presence.

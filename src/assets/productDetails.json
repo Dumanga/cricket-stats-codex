@@ -1,0 +1,228 @@
+{
+  "catalog": [
+    {
+      "category": "Kraft With Window",
+      "image_id": "",
+      "variants": [
+        {"capacity": "30g", "dimensions": "14cm x 9cm x 3cm", "price": 12.00},
+        {"capacity": "50g", "dimensions": "15cm x10cm x 3cm", "price": 13.00},
+        {"capacity": "100g", "dimensions": "20cm x 12cm x 4cm", "price": 17.00},
+        {"capacity": "200g", "dimensions": "21cm x 13cm x 4cm", "price": 19.00},
+        {"capacity": "200g/250g", "dimensions": "20cm x 14cm x 4cm", "price": 19.00},
+        {"capacity": "250g", "dimensions": "22cm x 15cm x 5cm", "price": 22.00},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 6cm", "price": 28.00},
+        {"capacity": "1kg", "dimensions": "30cm x 20cm x7cm", "price": 32.00},
+        {"capacity": "1.5kg", "dimensions": "32cm x 22cm x 7cm", "price": null},
+        {"capacity": "1.5kg", "dimensions": "34cm x 24cm x 7cm", "price": 40.00}
+      ]
+    },
+    {
+      "category": "Kraft Without Window",
+      "image_id": "",
+      "variants": [
+        {"capacity": "50g", "dimensions": "15cm x10cm x 3cm", "price": 16.00},
+        {"capacity": "100g", "dimensions": "20cm x 12cm x 4cm", "price": 20.00},
+        {"capacity": "200g", "dimensions": "20cm x 14cm x 4cm", "price": 23.00},
+        {"capacity": "400g", "dimensions": "24cm x 17cm x 5cm", "price": 31.00},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 6cm", "price": 35.00},
+        {"capacity": "1kg", "dimensions": "30cm x 20cm x7cm", "price": 41.00},
+        {"capacity": "1.5kg", "dimensions": "35cm x 25cm x 7cm", "price": 52.00}
+      ]
+    },
+    {
+      "category": "White Ziplock With Window",
+      "image_id": "",
+      "variants": [
+        {"capacity": "30g", "dimensions": "12cm x10cm x 3cm", "price": 17.00},
+        {"capacity": "50g", "dimensions": "15cm x10cm x 3cm", "price": 21.50},
+        {"capacity": "100g", "dimensions": "20cm x 12cm x 4cm", "price": 23.00},
+        {"capacity": "200g/250g", "dimensions": "20cm x 14cm x 4cm", "price": 24.50},
+        {"capacity": "250g", "dimensions": "22cm x 15cm x 5cm", "price": 26.00},
+        {"capacity": "400g", "dimensions": "24cm x 16cm x 5cm", "price": 31.50},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 6cm", "price": 34.00},
+        {"capacity": "1kg", "dimensions": "30cm x 22cm x7cm", "price": 43.00}
+      ]
+    },
+    {
+      "category": "Black Ziplock With Window",
+      "image_id": "",
+      "variants": [
+        {"capacity": "50g", "dimensions": "15cm x10cm x 3cm", "price": 19.00},
+        {"capacity": "100g", "dimensions": "20cm x 12cm x 4cm", "price": 22.00},
+        {"capacity": "200g", "dimensions": "20cm x 14cm x 4cm", "price": 24.50},
+        {"capacity": "250g", "dimensions": "22cm x 14cm x 4cm", "price": 25.50},
+        {"capacity": "250g", "dimensions": "22cm x 15cm x 4cm", "price": 27.00},
+        {"capacity": "250g", "dimensions": "22cm x 14cm x 5cm", "price": 39.00},
+        {"capacity": "400g", "dimensions": "24cm x 16cm x 5cm", "price": 28.00},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 6cm", "price": 35.00},
+        {"capacity": "1kg", "dimensions": "30cm x 20cm x7cm", "price": 41.50},
+        {"capacity": "1.5kg", "dimensions": "33cm x 23cm x7cm", "price": 48.00}
+      ]
+    },
+    {
+      "category": "White Ziplock Without Window",
+      "image_id": "",
+      "variants": [
+        {"capacity": "50g", "dimensions": "15cm x10cm x 3cm", "price": 22.50},
+        {"capacity": "100g", "dimensions": "20cm x12cm x 3cm", "price": 28.50},
+        {"capacity": "200g", "dimensions": "20cm x 14cm x 4cm", "price": 34.00},
+        {"capacity": "400g", "dimensions": "24cm x 16cm x 5cm", "price": 38.00},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 6cm", "price": 40.00},
+        {"capacity": "1kg", "dimensions": "30cm x 20cm x7cm", "price": 54.00}
+      ]
+    },
+    {
+      "category": "Black Ziplock Without Window",
+      "image_id": "",
+      "variants": [
+        {"capacity": "50g", "dimensions": "15cm x10cm x 3cm", "price": 20.50},
+        {"capacity": "100g", "dimensions": "20cm x12cm x 3cm", "price": 28.50},
+        {"capacity": "200g/250g", "dimensions": "20cm x 14cm x 4cm", "price": 33.50},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 6cm", "price": 39.50},
+        {"capacity": "1kg", "dimensions": "30cm x 20cm x7cm", "price": 48.50}
+      ]
+    },
+    {
+      "category": "Brown Stand Up Storage Zipper Pouch",
+      "image_id": "",
+      "variants": [
+        {"capacity": "100g", "dimensions": "9cm x 18cm", "price": 55.00},
+        {"capacity": "250g", "dimensions": "13cm x  20cm", "price": 65.00},
+        {"capacity": "500g", "dimensions": "13cm x 30.5cm", "price": 75.00},
+        {"capacity": "1kg", "dimensions": "15cm x 32.5", "price": 93.00}
+      ]
+    },
+    {
+      "category": "Gold Stand Up Storage Zipper Pouch",
+      "image_id": "",
+      "variants": [
+        {"capacity": "100g", "dimensions": "9cm x 18cm", "price": 55.00},
+        {"capacity": "250g", "dimensions": "13cm x  20cm", "price": 65.00},
+        {"capacity": "500g", "dimensions": "13cm x 30.5cm", "price": 75.00},
+        {"capacity": "1kg", "dimensions": "15cm x 32.5", "price": 93.00}
+      ]
+    },
+    {
+      "category": "Silver Stand Up Storage Zipper Pouch",
+      "image_id": "",
+      "variants": [
+        {"capacity": "100g", "dimensions": "9cm x 18cm", "price": 55.00},
+        {"capacity": "250g", "dimensions": "13cm x  20cm", "price": 65.00},
+        {"capacity": "500g", "dimensions": "13cm x 30.5cm", "price": 75.00},
+        {"capacity": "1kg", "dimensions": "15cm x 32.5", "price": 93.00}
+      ]
+    },
+    {
+      "category": "Black Stand Up Storage Zipper Pouch",
+      "image_id": "",
+      "variants": [
+        {"capacity": "100g", "dimensions": "9cm x 18cm", "price": 55.00},
+        {"capacity": "250g", "dimensions": "13cm x  20cm", "price": 65.00},
+        {"capacity": "500g", "dimensions": "13cm x 30.5cm", "price": 75.00},
+        {"capacity": "1kg", "dimensions": "15cm x 32.5", "price": 93.00}
+      ]
+    },
+    {
+      "category": "White Stand Up Storage Zipper Pouch",
+      "image_id": "",
+      "variants": [
+        {"capacity": "100g", "dimensions": "9cm x 18cm", "price": 55.00},
+        {"capacity": "250g", "dimensions": "13cm x  20cm", "price": 65.00},
+        {"capacity": "500g", "dimensions": "13cm x 26cm", "price": 75.00},
+        {"capacity": "1kg", "dimensions": "15cm x 32.5", "price": 93.00}
+      ]
+    },
+    {
+      "category": "One Side Aluminum Ziplock",
+      "image_id": "",
+      "variants": [
+        {"capacity": "30g", "dimensions": "14cm x9cm x 3cm", "price": 11.50},
+        {"capacity": "50g", "dimensions": "15cm x10cm x 3cm", "price": 12.50},
+        {"capacity": "100g", "dimensions": "20cm x 12cm x 4cm", "price": 16.75},
+        {"capacity": "200g/250g", "dimensions": "20cm x 14cm x 4cm", "price": 24.00},
+        {"capacity": "250g", "dimensions": "22cm x 15cm x 4cm", "price": 26.50},
+        {"capacity": "400g", "dimensions": "24cm x 16cm x 5cm", "price": 27.00},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 6cm", "price": 31.25},
+        {"capacity": "1kg", "dimensions": "30cm x 20cm x7cm", "price": 40.00}
+      ]
+    },
+    {
+      "category": "Brown Kraft With One Side Transparent",
+      "image_id": "",
+      "variants": [
+        {"capacity": "50g", "dimensions": "15cm x 10cm x 3cm", "price": 17.50},
+        {"capacity": "100g", "dimensions": "20cm x 12cm x 4cm", "price": 22.50},
+        {"capacity": "200g", "dimensions": "20cm x 14cm x 5cm", "price": 25.00},
+        {"capacity": "400g", "dimensions": "24cm x 16cm x 5cm", "price": 28.50},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 6cm", "price": 33.00},
+        {"capacity": "1kg", "dimensions": "30cm x 22cm x7cm", "price": 40.50}
+      ]
+    },
+    {
+      "category": "Gold Ziplock With Window",
+      "image_id": "",
+      "variants": [
+        {"capacity": "50g", "dimensions": "15cm x 10cm x 3cm", "price": 15.75},
+        {"capacity": "100g", "dimensions": "20cm x 12cm x 4cm", "price": 22.00},
+        {"capacity": "200g", "dimensions": "20cm x 14cm x 5cm", "price": 25.00},
+        {"capacity": "250g", "dimensions": "22cm x 15cm x 5cm", "price": 27.00},
+        {"capacity": "400g", "dimensions": "24cm x 16cm x 5cm", "price": 29.00},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 6cm", "price": 31.00}
+      ]
+    },
+    {
+      "category": "Kraft Squre Bottom Without Window",
+      "image_id": "",
+      "variants": [
+        {"capacity": "50g", "dimensions": "10cm x 20cm x 3cm", "price": 32.00},
+        {"capacity": "100g", "dimensions": "12cm x 22cm x 3cm", "price": 35.00},
+        {"capacity": "250g", "dimensions": "14cm x 24cm x 3cm", "price": 39.00},
+        {"capacity": "500g", "dimensions": "18cm x 28cm x 4cm", "price": 52.00},
+        {"capacity": "1kg", "dimensions": "20cm x 30cm x 4cm", "price": 58.00}
+      ]
+    },
+    {
+      "category": "Full Transparent Standup Ziplock",
+      "image_id": "",
+      "variants": [
+        {"capacity": "50g", "dimensions": "15cm x10cm x 3cm", "price": 11.00},
+        {"capacity": "100g", "dimensions": "20cm x 12cm x 4cm", "price": 14.00},
+        {"capacity": "200g", "dimensions": "20cm x 14cm x 4cm", "price": 19.00},
+        {"capacity": "500g", "dimensions": "26cm x 18cm x 5cm", "price": 22.00},
+        {"capacity": "1kg", "dimensions": "32cm x 22cm x 6cm", "price": 27.00}
+      ]
+    },
+    {
+      "category": "Full Alu Foil Ziplock (With Shine)",
+      "image_id": "",
+      "variants": [
+        {"capacity": "250g", "dimensions": "20cm x 14cm x 4cm", "price": 27.00},
+        {"capacity": "500g", "dimensions": "27cm x 17cm x 4cm", "price": 41.00},
+        {"capacity": "1Kg", "dimensions": "30cm x 22cm x 4cm", "price": 60.00}
+      ]
+    },
+    {
+      "category": "Cap Spout Pouch",
+      "image_id": "",
+      "variants": [
+        {"capacity": "100ml", "dimensions": null, "price": 17.00},
+        {"capacity": "200ml", "dimensions": null, "price": 18.00},
+        {"capacity": "250ml", "dimensions": null, "price": 18.50},
+        {"capacity": "300ml", "dimensions": null, "price": 19.00},
+        {"capacity": "385ml", "dimensions": null, "price": 19.50},
+        {"capacity": "500ml", "dimensions": null, "price": 20.50}
+      ]
+    },
+    {
+      "category": "Vacuum Bag",
+      "image_id": "",
+      "variants": [
+        {"capacity": null, "dimensions": "14cm x 22cm", "price": 19.50},
+        {"capacity": null, "dimensions": "18cm x 24cm", "price": 21.00},
+        {"capacity": null, "dimensions": "19cm x 26cm", "price": 26.50},
+        {"capacity": null, "dimensions": "20cm x 30cm", "price": 34.00},
+        {"capacity": null, "dimensions": "30cm x 40cm", "price": 54.00}
+      ]
+    }
+  ]
+}
